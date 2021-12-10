@@ -4,6 +4,6 @@ This is my personal webpage for all of my github repositories.
 
 # Quick Links #
 
-- Computation Mathematics Repository -
+- Computation Mathematics Repository
 
-[Math 4610](https://sweetbabydave.github.io/math4610/)
+- - [Math 4610](https://sweetbabydave.github.io/math4610/)
