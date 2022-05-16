@@ -10,4 +10,4 @@ This is my personal webpage for all of my github repositories.
 
 - Differential Equations Repository
 
-  - [Math 5620](https://sweetbabydave.github.io/math5620/)
+  - [Math 5620](https://sweetbabydave.github.io/Math5620/)
